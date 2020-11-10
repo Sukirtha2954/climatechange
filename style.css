@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap');
+body{
+    font-family: 'Source Sans Pro', sans-serif;
+}
+div{
+    border: 1px solid black;
+    height: 200px;
+    width: 200px;
+    text-align: center;
+    margin: 2%;
+    padding: 2%;
+}
+img{
+    height: 70px;
+}
+div:hover
+{
+ background-color: lightgreen;
+
+}
